@@ -1,6 +1,7 @@
 <p align="center">
   <img src="logos/logo.png" width="200" style="image-rendering: pixelated;" />
 </p>
+
 # Steviesaurus Dev Assets
 
 The official visual identity and media assets for Steviesaurus Dev.
